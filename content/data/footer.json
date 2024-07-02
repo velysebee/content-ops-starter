@@ -5,7 +5,15 @@
         "type": "ImageBlock"
     },
     "text": "vanessa.buice\\@gmail.com\n",
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "vanessa.buice@gmail.com",
+            "icon": "mail",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [
         {
             "label": "Privacy",
